@@ -1,0 +1,180 @@
+{
+  "selectedTemplate": 6,
+  "headings": {
+    "work": "My Work",
+    "skills": "My Skills",
+    "projects": "My Projects"
+  },
+  "basics": {
+    "name": "Jacob Hernandez",
+    "label": "Front-End Developer, Solutions Architect, Marketing Content Specialist",
+    "email": "Jphdevsf@gmail.com",
+    "phone": "3235285719",
+    "website": "https://github.com/esaumusic",
+    "summary": "My summary...",
+    "location": {
+      "address": "Fremont, CA"
+    }
+  },
+  "education": [
+    {
+      "institution": "City College of San Francisco",
+      "location": "San Francisco, CA",
+      "startDate": "2010",
+      "endDate": "2012",
+      "studyType": "AS Degree",
+      "area": "Web Development"
+    },
+    {
+      "institution": "Cuesta College",
+      "location": "San Luis Obispo, CA",
+      "endDate": "2004",
+      "studyType": "AA Degree",
+      "area": "General Studies"
+    }
+  ],
+  "work": [
+    {
+      "company": "Tailored Brands",
+      "location": "Dublin,CA",
+      "position": "Director, Digital Content Development",
+      "website": "https://www.tailoredbrands.com/",
+      "startDate": "January 2022",
+      "endDate": "October 2025",
+      "highlights": [
+        "lead team of developers and content authors in Front-End Development, Email Development, and CMS Authorship."
+      ]
+    },
+    {
+      "company": "Tailored Brands",
+      "location": "Fremont, CA",
+      "position": "Manager, Front-End Development",
+      "website": "https://www.tailoredbrands.com/",
+      "startDate": "February 2018",
+      "endDate": "",
+      "highlights": [
+        "Led and grew a team of front-end developers, supporting house of brands."
+      ]
+    },
+    {
+      "company": "Tailored Brands",
+      "location": "Fremont, CA",
+      "position": "Front-End Developer",
+      "website": "https://www.tailoredbrands.com/",
+      "startDate": "January 2016",
+      "endDate": "",
+      "highlights": [
+        "Built emails."
+      ]
+    },
+    {
+      "company": "Men's Wearhouse",
+      "location": "San Francisco, CA",
+      "position": "Content Developer",
+      "website": "https://www.menswearhouse.com/",
+      "startDate": "March 2012",
+      "endDate": "January 2016",
+      "highlights": [
+        "Built emails.",
+        "Authored marketing content with HTML and CSS for homepage, landing pages, etc."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages & Frameworks",
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Sass",
+        "NodeJs",
+        "Gulp",
+        "PugJs",
+        "Handlebars",
+        "React",
+        "NextJs"
+      ]
+    },
+    {
+      "name": "Design Tools",
+      "level": "",
+      "keywords": [
+        "Figma",
+        "Adobe Photoshop",
+        "Sketch",
+        "Adobe Illustrator"
+      ]
+    },
+    {
+      "name": "Collaboration & Version Control",
+      "level": "",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Confluence",
+        "Jira",
+        "Trello",
+        "Adobe Workfront"
+      ]
+    },
+    {
+      "name": "Vendor Tools & Systems",
+      "level": "",
+      "keywords": [
+        "Marigold (formerly CheetahMail)",
+        "Email on Acid",
+        "Google Cloud",
+        "Google Analytics",
+        "Google Tag Manager",
+        "SalesForce Marketing Cloud Platform",
+        "Stylitics",
+        "Optimizely",
+        "ABTasty"
+      ]
+    },
+    {
+      "name": "CMS Platforms",
+      "level": "",
+      "keywords": [
+        "IBM WebSphere",
+        "HCL Commerce",
+        "CoreMedia",
+        "WordPress"
+      ]
+    },
+    {
+       "name": "Soft Skills",
+        "keywords": [
+            
+        ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Build System Task Runner",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Performer of The Year",
+      "date": "February 2025",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
