@@ -25,6 +25,10 @@ npm install
 ```bash
 npm run build
 ```
+OR
+```bash
+node build-resumes.js
+```
 
 This command:
 1. Scans `package.json` for all packages prefixed with "jsonresume-theme-"

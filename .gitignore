@@ -136,10 +136,11 @@ dist
 .pnp.*
 
 # private files
-_resume.json
+_*.json
 
-# resumed output
+# private folders
 output/
+src/
 
 # Mac OS
 .DS_Store
