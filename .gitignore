@@ -141,6 +141,7 @@ _*.json
 # private folders
 output/
 src/
+.vscode/
 
 # Mac OS
 .DS_Store

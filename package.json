@@ -13,13 +13,9 @@
   "license": "ISC",
   "devDependencies": {
     "jsonresume-theme-even": "^0.26.1",
-    "jsonresume-theme-flat": "^0.3.7",
-    "jsonresume-theme-kendall": "^0.2.0",
-    "jsonresume-theme-onepage-plus": "^1.0.1",
     "jsonresume-theme-paper": "^0.5.0",
     "jsonresume-theme-rickosborne": "^2022.9.16-T1450",
     "jsonresume-theme-rocketspacer": "^1.2.2",
-    "jsonresume-theme-simplyelegant": "^1.7.2",
     "jsonresume-theme-stackoverflow": "^2.1.0",
     "puppeteer": "^24.26.1",
     "resumed": "^6.1.0",
